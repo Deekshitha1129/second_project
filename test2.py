@@ -1,1 +1,1 @@
-print("nale manege barthini antha confirm illa")
+print("nadidd manege barthini")
