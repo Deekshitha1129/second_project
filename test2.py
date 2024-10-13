@@ -1,1 +1,1 @@
-print("nale manege barthini")
+print("nadidd manege barthini")
