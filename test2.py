@@ -1,1 +1,1 @@
-print("jaaakjak")
+print("nale manege barthini")
